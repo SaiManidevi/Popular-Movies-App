@@ -8,7 +8,7 @@ The following are the *features of this app* :
 * Fetches data from the Internet with theMovieDB API.
 * Uses adapters and custom list layouts (used RecyclerView) to populate the list.
 * The app has a feature of *unlimited scroll* that keeps displaying movies as the user scrolls (instead of the usual 20-movies-limit per API call)
-* Allows users to view and play trailers ( either in the Youtube app or a web browser)
+* Allows users to view and play trailers
 * Allows users to read reviews of a selected movie.
 * The app also allows users to mark a movie as a favorite which is stored in the database (for Offline viewing)
 
