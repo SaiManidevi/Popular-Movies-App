@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="120dp"
+    android:layout_marginBottom="8dp"
+    android:paddingLeft="@dimen/fourDPS"
+    android:paddingRight="@dimen/fourDPS"
+    app:cardBackgroundColor="@color/trailer_bgColor"
+    app:cardCornerRadius="@dimen/tenDPS"
+    app:cardElevation="@dimen/fiveDPS">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_trailerThumbnail"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/trailerImageHeight"
+            android:contentDescription="@string/content_movie_trailer"
+            android:paddingTop="@dimen/tweleveDPS"
+            android:src="@drawable/poster_none" />
+
+        <TextView
+            android:id="@+id/tv_trailerInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:maxLength="25"
+            android:padding="@dimen/sixDPS"
+            android:text="@string/content_movie_trailer"
+            android:textColor="@color/colorText" />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#e65100</color>
+    <color name="colorCardViewItem">#455a64</color>
+    <color name="colorText">#e8eaf6</color>
+
+    <color name="default_title_color">#FFFFFF</color>
+    <color name="default_title_background">#000000</color>
+    <color name="fab_bg">#ffe200</color>
+    <color name="trailer_bgColor">#212121</color>
+</resources>
+

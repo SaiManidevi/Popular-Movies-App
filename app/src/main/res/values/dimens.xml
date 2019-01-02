@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="review_paddng">4dp</dimen>
+    <dimen name="review_margin">6dp</dimen>
+    <dimen name="movie_title_size">16sp</dimen>
+    <dimen name="review_text_size">20sp</dimen>
+    <dimen name="detailsMovie_text_size">20sp</dimen>
+    <dimen name="heading_size">22sp</dimen>
+    <dimen name="whoops_text_size">24sp</dimen>
+
+    <dimen name="twoDPS">2dp</dimen>
+    <dimen name="fourDPS">4dp</dimen>
+    <dimen name="sixDPS">6dp</dimen>
+    <dimen name="eightDPS">8dp</dimen>
+    <dimen name="tweleveDPS">12dp</dimen>
+    <dimen name="sixteenDPS">16dp</dimen>
+    <dimen name="twentyDPS">20dp</dimen>
+
+    <dimen name="fiveDPS">5dp</dimen>
+    <dimen name="tenDPS">10dp</dimen>
+    <dimen name="movieCardHeight">240dp</dimen>
+    <dimen name="movieImageHeight">200dp</dimen>
+    <dimen name="trailerImageHeight">90dp</dimen>
+
+
+</resources>

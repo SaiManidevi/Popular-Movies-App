@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/top_rated_menu"
+        android:orderInCategory="1"
+        android:title="@string/top_rated"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/now_playing_menu"
+        android:orderInCategory="1"
+        android:title="@string/now_playing"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/most_popular_menu"
+        android:orderInCategory="1"
+        android:title="@string/most_popular"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/favorites_menu"
+        android:orderInCategory="1"
+        android:title="@string/fav_menu"
+        app:showAsAction="never" />
+</menu>

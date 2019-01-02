@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">KnowMovies</string>
+    //Choice of sorting
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    //No internet strings
+    <string name="whoops_string">Whoops!</string>
+    <string name="no_internet_string">No Internet connection found. Check your connection</string>
+    //Movie Detail strings
+    <string name="sample_movieTitle">The Movie of the Year</string>
+    <string name="release_date">12/12/2017</string>
+    <string name="avg_rate">8.8</string>
+    <string name="sample_description">A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again</string>
+    <string name="content_movie_bg">Movie BG Poster</string>
+    <string name="content_movie_poster">Movie Poster</string>
+    <string name="content_no_internet">No Internet pic</string>
+    <string name="content_movie_trailer">Trailer Info</string>
+    <string name="sample_trailerType">Trailer</string>
+    <string name="sample_authorName">Richard Bellstring</string>
+    <string name="review">Reviews</string>
+    <string name="trailer">Trailers</string>
+    <string name="add_fav">Add Fav</string>
+    <string name="fav_menu">Favorites</string>
+    <string name="added_fav">Added to favorites</string>
+    <string name="removed_fav">Removed from favorites</string>
+    <string name="undo_string">UNDO</string>
+    <string name="sample_movieYear">(2018)</string>
+    <string name="released_on">Released on</string>
+    <string name="similar">Similar</string>
+    <string name="notConnectedToInternet">Oh no! You\'re offline</string>
+</resources>

@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">@dimen/movie_title_size</item>
+    </style>
+
+    <style name="textViewReviewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">@dimen/review_text_size</item>
+    </style>
+
+    <style name="dividerViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/twoDPS</item>
+        <item name="android:layout_marginRight">@dimen/eightDPS</item>
+        <item name="android:layout_marginLeft">@dimen/eightDPS</item>
+        <item name="android:layout_marginTop">@dimen/eightDPS</item>
+        <item name="android:layout_marginBottom">@dimen/eightDPS</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+
+    <style name="textViewGroupStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/rect</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/tweleveDPS</item>
+        <item name="android:paddingTop">@dimen/tweleveDPS</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">@dimen/movie_title_size</item>
+    </style>
+
+    <style name="fabStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/tenDPS</item>
+        <item name="android:layout_marginEnd">@dimen/tenDPS</item>
+        <item name="android:elevation">@dimen/eightDPS</item>
+    </style>
+
+</resources>
+
